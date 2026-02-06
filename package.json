@@ -1,6 +1,6 @@
 {
   "name": "@tempered/hydrogen-wishlist",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Wishlist components for Shopify Hydrogen storefronts with Shopify metafield storage",
   "license": "MIT",
   "author": "Tempered Tools <hello@temperedtools.xyz>",
